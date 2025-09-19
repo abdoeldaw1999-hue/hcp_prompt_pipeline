@@ -1,6 +1,0 @@
-llama-cpp-python
-pandas
-textblob
-tqdm
-nltk
-model name = BioMistral-7B-GGUF.ipynb
